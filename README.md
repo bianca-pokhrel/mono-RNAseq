@@ -1,1 +1,3 @@
-# mono-RNAseq
+# monocyte-RNAseq: Analysis of gene expression from peripheral blood monocytes
+
+WIP...
